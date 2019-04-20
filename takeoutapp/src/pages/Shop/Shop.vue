@@ -1,6 +1,6 @@
 <template>
     <div>
-        App
+        Shop
     </div>
 </template>
 
